@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Projects/door-lock-rfid-system"
+		},
+		{
+			"name": "arduino-based-rfid-door-lock",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
