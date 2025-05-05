@@ -1,4 +1,4 @@
-Arduino-Based Door Lock System
+<h1>Arduino-Based Door Lock System</h1>
 
 This project is an Arduino-powered electronic door lock system that uses an RFID sensor for access control 
 and an LCD display for status monitoring. When a user taps a registered RFID card, the system verifies 
