@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        // {
+        //     "name": "Mac",
+        //     "includePath": [
+        //         "${workspaceFolder}/**",
+        //         "${workspaceFolder}/lib/**",
+        //         "${workspaceFolder}/include/**",
+        //         "${workspaceFolder}/.pio/libdeps/uno/**",
+        //         "${workspaceFolder}/.pio/build/uno/**"
+        //     ],
+        //     "defines": [],
+        //     "compilerPath": "/Users/angelomiranda/.platformio/packages/toolchain-atmelavr/bin/avr-g++",
+        //     "cStandard": "c17",
+        //     "cppStandard": "c++14",
+        //     "intelliSenseMode": "macos-clang-arm64"
+        // },
+        {
+            "name": "Mac-Configurations",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
